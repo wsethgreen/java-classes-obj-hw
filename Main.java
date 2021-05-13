@@ -12,8 +12,10 @@ public class Main {
         hodor.setLocation("Columbus, Ohio");
         hodor.setType("dog");
 
-        // Print the attributes to the console to ensure it's working.
-        System.out.printf("I have a pet named %s. \n%s is a %s that is %s years old. \n%s resides in %s.", hodor.name, hodor.name, hodor.type, hodor.age, hodor.name, hodor.location);
+        // **** Test ***** 
+        // Change the attributes to be "public" and Print the attributes 
+        // to the console to ensure it's working.
+        // System.out.printf("I have a pet named %s. \n%s is a %s that is %s years old. \n%s resides in %s.", hodor.name, hodor.name, hodor.type, hodor.age, hodor.name, hodor.location);
 
     }
 

@@ -4,10 +4,10 @@
 public class Pet {
     
     // variables for pet data
-    public String name;
-    public int age;
-    public String location;
-    public String type;
+    private String name;
+    private int age;
+    private String location;
+    private String type;
 
 
     // getters
